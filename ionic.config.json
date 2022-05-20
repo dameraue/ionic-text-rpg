@@ -1,0 +1,7 @@
+{
+  "name": "ionic-text-rpg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
