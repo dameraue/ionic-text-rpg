@@ -1,0 +1,15 @@
+{
+  "Id": 0,
+  "Name": "Test",
+  "Pos": 3,
+  "Content":
+  {
+    "Title": "Number 1 Title",
+    "Text": "This is Text",
+    "isdynamic": true,
+    "Option": [true, false],
+
+    "Additional": [],
+    "checkNull": null
+  }
+}
